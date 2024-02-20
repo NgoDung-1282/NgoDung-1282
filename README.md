@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NgoDung-1282
-- 👀 I’m interested in VDK
 - 🌱 I’m currently student HUST's student 
 
 <!---
